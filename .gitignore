@@ -1,0 +1,9 @@
+*.o
+build
+*.kdev4
+CMakeLists.txt.user
+.clang-format
+/build*/
+cmake-build-debug*
+.idea
+.vscode/
